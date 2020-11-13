@@ -56,14 +56,3 @@ Curl command to test save the note:
 
 curl -H 'Content-Type: application/json' -d '{"description":"Sudheer is here"}' -X POST http://127.0.0.1:8000/notesapp/sites/<UserId>
 
-About
-
-An API application that can create a Note and display all Notes of a user
-Resources
-Readme
-Releases
-No releases published
-Packages
-No packages published
-Languages
-
